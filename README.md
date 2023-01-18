@@ -66,3 +66,14 @@ Las 5 dimenciones de la interacción:
 * Objetos físicos o espacio físico: Es fundamental tener en cuenta el contexto del uso de los productos (incluye los objetos físicos con los que el usuario interactua)
 * El tiempo: El tiempo que pasan las usuarias y los usuarios con el producto es importante. Se debe tener en cuenta el tiempo de dedicación que van a tener que invertir para completar las diferentes tareas. El tiempo de dedicación de una tarea se relaciona mucho con su carga cognitiva.
 * El comportamiento: Comportamiento de usuarios y usuarias. Cómo va a afectar la configuración de todas las dimensiones anteriores en el uso del producto.
+
+# UX vs. CX
+
+* https://hazrevista.org/rsc/2010/06/c-k-prahalad-el-hombre-que-reino-en-la-cuspide-de-la-base-de-la-piramide/
+* https://www.wowcx.com/que-es-gestion-de-la-experiencia-de-cliente/
+
+* 👾 UX, es la manera en la que se relaciona y como se recibe el ambiente digital por un usuario.
+* 🐱‍🏍 CX, Es la experiencia que se dejo en el cliente después de la UX brindando ahora una vía por la cual el cliente recordara, pensara o hablara de dicha experiencia, llevando la experiencia digital a lo físico llegando hasta un sentido holistico.
+
+![](https://static.platzi.com/media/user_upload/Aporte%20Clase%206-cf600e20-4866-459c-b68a-938bb1ad3f71.jpg)
+![](https://static.platzi.com/media/user_upload/CX-versus-UX-9784b1b6-9a01-49b5-801c-cca2fc837cb4.jpg)
