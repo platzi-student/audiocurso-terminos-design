@@ -77,3 +77,37 @@ Las 5 dimenciones de la interacción:
 
 ![](https://static.platzi.com/media/user_upload/Aporte%20Clase%206-cf600e20-4866-459c-b68a-938bb1ad3f71.jpg)
 ![](https://static.platzi.com/media/user_upload/CX-versus-UX-9784b1b6-9a01-49b5-801c-cca2fc837cb4.jpg)
+
+# La UX, usabilidad, accesibilidad y diseño inclusivo
+* https://www.expoknews.com/como-ser-una-marca-incluyente-caso-microsoft/
+* https://www.amazon.es/dp/B07DNG394N/ref=dp-kindle-redirect?_encoding=UTF8&amp&btkr=1
+* https://www.tawdis.net/
+* https://about.google/belonging/disability-inclusion/
+* https://www.torresburriel.com/weblog/2020/03/20/diseno-inclusivo-como-fuente-de-eficacia-y-motor-de-conversion/
+
+* 🌎 La accesibilidad tiene que ver más en cómo diseñamos pensando en la forma que las personas perciben el mundo.
+* 🤗 La inclusión tiene que ver más en cómo diseñamos pensando en la forma en la que las personas se perciben así mismas.
+
+![](https://static.platzi.com/media/user_upload/52-87eaa878-f42a-45cf-8f91-69fa169d4f69.jpg)
+![](https://static.platzi.com/media/user_upload/53-7e93c8d3-9322-4959-886c-69a92bb36d26.jpg)
+![](https://static.platzi.com/media/user_upload/54-b856c386-e294-4a49-bce4-f98ad2f8a333.jpg)
+![](https://static.platzi.com/media/user_upload/55-5063f801-3fa8-45c7-9001-b73d52894ccc.jpg)
+![](https://static.platzi.com/media/user_upload/56-8133f957-d4af-4e44-9360-5c586ac2ce37.jpg)
+![](https://static.platzi.com/media/user_upload/58-42b922c0-4e7a-48e5-8a30-e0f04219fdbe.jpg)
+![](https://static.platzi.com/media/user_upload/60-ae044677-b660-40c9-a8a0-8e0edb660a18.jpg)
+![](https://static.platzi.com/media/user_upload/61-646b7951-ec23-43a6-bc50-74525b219d43.jpg)
+
+## BASES DEL DISEÑO INCLUSIVO
+Reconoce la exclusión
+> Identifica inconvenientes el cual hace que los espectadores se sientan distanciados frente.
+
+> Para así encontrar la raiz del problema y solucionarlo.
+Aprende y enriquécete de la diversidad.
+
+> Esto supone ponerte al tono de la problemática, y es valioso como base sobre como afrontar las mismas desde un ambiente psicoanalítico, en el que se toma en cuenta los más pequeños detalles para luego hacerles un estudio para agregar ideas para contribuir a una causa específica.
+
+Resuelve para uno, extiende para muchos
+
+> Esto tiene que ver más en la cuestión de diseñar pensando en las personas de las cuales presentan ciertas dificultades en cuanto a la comprensión de un contenido, es decir, ponerle subtítulos a un video para que las personas sordas puedan entender satisfactoriamente el contenido visual,. Esto haciendo que los diseños se adapten a la persona.
+
+> A la vez se relaciona con el tema de la usabilidad, que es la parte importante para el diseño inclusivo, y se refiere como la facilidad de uso que tiene una aplicación de la web en las personas, describiendo como de bien estos pueden utilizarlos o comprender ciertas cosas.
