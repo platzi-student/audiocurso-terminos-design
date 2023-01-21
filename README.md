@@ -111,3 +111,79 @@ Resuelve para uno, extiende para muchos
 > Esto tiene que ver más en la cuestión de diseñar pensando en las personas de las cuales presentan ciertas dificultades en cuanto a la comprensión de un contenido, es decir, ponerle subtítulos a un video para que las personas sordas puedan entender satisfactoriamente el contenido visual,. Esto haciendo que los diseños se adapten a la persona.
 
 > A la vez se relaciona con el tema de la usabilidad, que es la parte importante para el diseño inclusivo, y se refiere como la facilidad de uso que tiene una aplicación de la web en las personas, describiendo como de bien estos pueden utilizarlos o comprender ciertas cosas.
+
+# Psicología y diseño
+* http://design-toolkit.uoc.edu/es/modelo-mental/
+* http://design-toolkit.uoc.edu/es/el-sesgo-del-disenador/
+* https://lawsofux.com/
+* https://platzi.com/cursos/fundamentos-diseno/
+* https://www.amazon.es/Dont-Make-Me-Think-Usability/dp/0321344758
+
+## 3 leyes de UX:
+
+* 💈 Efecto de estética y usabilidad: cuanto más usable sea un sistema será percibido por los usuarios como más placentero estéticamente.
+
+* ⏱ Ley de Hick: el tiempo que se tarda en adoptar una decisión, aumenta a medida que se incrementa el número de opciones.
+
+* 👨‍💻 Ley de Jacob: los usuarios pasan la mayor parte de su tiempo en otros sitios web. Prefieren sitios similares a los que frecuentan y ya conocen. Por eso, es mejor usar convenciones comunes.
+
+## el diseño se sirve del comportamiento humano para mejorar sus diseños
+
+### los sesgos: sirven de reglas generales para tomar decisiones
+
+* libro pensar rapido pensar despacio daniel kahneman
+
+* la forma como tu cerebro funciona se llama modelo mental
+
+* atencion: es un recurso limitado
+
+* comprender los modelos mentales ayuda a mejorar las experiencias de los usuarios que a su ayudaran a mejorar tus productos y que estos comuniquen adecuadamente su funcion
+
+* efecto de estetica y usabilidad (sencillez ejm arbnb)
+
+* Hazlo simple: al tener muchas opciones tardas mucho mas en tomar decisiones por eso en cuanto mas simple mejor
+
+
+
+# Leyes de UX, resumidas y traducidas:
+
+* Ley de Hick: el tiempo que se tarda en adoptar una decisión, aumenta a medida que se incrementa el número de opciones.
+
+* Ley de Jakob Nielsen: los usuarios pasan la mayor parte de su tiempo en otros sitios web. Prefieren sitios similares a los que frecuentan y ya conocen. Por eso, es mejor usar convenciones comunes. (Don´t make me think-Steve Krug)
+
+* Ley de Fitts: el tiempo para adquirir un objetivo es una función de la distancia y el tamaño del objetivo. Los objetivos táctiles deben ser lo suficientemente grandes para que los usuarios los seleccionen con precisión y deben colocarse en áreas de una interfaz que permitan adquirirlos fácilmente.
+
+* Ley de región común: Los elementos tienden a percibirse en grupos si comparten un área con un límite claramente definido.
+
+* Ley de proximidad: Los elementos que están cerca, o próximo entre sí, tienden a ser agrupados.
+
+* Ley de Prägnanz: las personas percibirán e interpretarán imágenes ambiguas o complejas de la forma más simple posible, porque es la interpretación que requiere el menor esfuerzo cognitivo de nuestra parte.
+
+* Ley de la similitud: El ojo humano tiende a percibir elementos similares en un diseño como una imagen, forma o grupo completo, inclusos si esos elementos están separados.
+
+* Ley de conectividad uniforme: Los elementos que están conectados visualmente se perciben más relacionados que los elementos sin conexión.
+
+* Ley de Miller: La persona promedio solo puede mantener de 5 a 9 elementos en su memoria de trabajo.
+
+* Ley de Parkinson: El trabajo se expande hasta que ocupa por completo el tiempo destinado a su realización.
+
+* Ley de Postel: Ser liberal en lo que se acepta y conservador en lo que se devuelve.
+
+* Ley de Tesler (o de conservación de la complejidad): Establece que para cualquier sistema existe una cierta cantidad de complejidad que no se puede reducir.
+
+* Efecto Von Restorff (o de aislamiento): predice que cuando hay varios objetos similares presentes, es más probable que se recuerde el que difiere del resto.
+
+* Efecto Zeigarnik: Las personas recuerdan mejor las tareas incompletas o interrumpidas que las tareas completas.
+
+* Efecto gradiente de objetivo: la tendencia a acercarse a una meta aumenta con la proximidad a la meta.
+
+* Efecto de estética y usabilidad: Los usuarios normalmente perciben a los diseño más estéticos como más usables.
+
+* Efecto de posición en serie: Los usuarios tienden a recordar mejor el primero y el último elemento de una serie.
+
+* Regla de fin de pico: Las personas juzgan la experiencia en gran medida en función de cómo se sintieron en su punto máximo y al final, en lugar de la suma total o el promedio de cada momento.
+
+* Principio de Pareto: establece que, para muchos eventos, el aproximadamente 80% de los efectos provienen del 20% de las causas.
+
+* Umbral de Doherty: la productividad se dispara cuando una computadora y sus usuarios interactúan a un ritmo que garantiza que ninguno tenga que esperar al otro.
+
