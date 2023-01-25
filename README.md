@@ -187,3 +187,8 @@ Resuelve para uno, extiende para muchos
 
 * Umbral de Doherty: la productividad se dispara cuando una computadora y sus usuarios interactúan a un ritmo que garantiza que ninguno tenga que esperar al otro.
 
+## Despedida y conclusiones
+
+* https://miro.com/app/board/uXjVOhoXIlw=/
+
+
